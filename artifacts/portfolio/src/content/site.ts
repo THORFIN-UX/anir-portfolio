@@ -20,7 +20,7 @@ export const NAV_ITEMS = [
 
 export const HERO = {
   label: "FULL STACK DEVELOPER",
-  headline: "Premium Websites That Turn Visitors Into Customers",
+  headline: "Anir Kesstaou \u2014 Full-Stack Developer",
   subheadline:
     "I build high-performance websites and web platforms for businesses that want stronger credibility, better customer experience, and measurable growth.",
   trust: ["Modern Stack", "Fast", "Responsive", "SEO Ready"],
